@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seungchul&fontSize=90)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seungchul&fontSize=90) -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Urban6!&fontAlign=80&fontAlignY=40&color=gradient")
 
 ### Hi there 👋
 
